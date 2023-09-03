@@ -1,7 +1,7 @@
 
 
 --
--- Teste via PL/SQL - Valores acima de 4 caracteres
+-- Teste via PL/SQL - Valores acima de 4000 caracteres
 --
 -- Resultado HASH: B63A59E494D8648145852785ECEBD86C
 --
