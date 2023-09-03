@@ -1,0 +1,2 @@
+# GERAR_HASH_PLSQL_ORACLE
+Gerar HASH de CLOB ou VARCHAR - PL/SQL - Oracle
